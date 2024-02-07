@@ -1,0 +1,6 @@
+wg-quick up wg0-client
+wg-quick down wg0-client
+wg-quick down wg0-client
+
+It looks like systemd-resolved might not be running. Does it help
+if you run 'sudo systemctl enable --now systemd-resolved' ?

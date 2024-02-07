@@ -13,6 +13,7 @@ dunst 1.9.2-1
 efibootmgr 18-2
 firefox 122.0-1
 git 2.43.0-1
+go 2:1.21.6-1
 google-chrome 121.0.6167.139-1
 gst-plugin-pipewire 1:1.0.3-1
 hyprland-git 0.34.0.r96.504ebe1b-1
@@ -39,6 +40,7 @@ qt5ct 1.8-1
 rofi-lbonn-wayland-git 1.7.5.wayland2.r167.gb88dddd1-1
 spotify 1:1.2.26.1187-1
 swww 0.8.2-1
+systemd-resolvconf 255.3-1
 tela-circle-icon-theme-all 2023.10.07-1
 ttf-arphic-ukai 0.2.20080216.2-2
 ttf-arphic-uming 0.2.20080216.2-2
